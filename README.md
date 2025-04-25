@@ -1,7 +1,7 @@
 Hey!
 I am an undergrad at IIT Kanpur, studying Mathematics. In my free time, I watch movies.
 
-I am interested in Probability, Machine Learning, and Compression - so just compression ;). I also like writing search/scrape utilities. 
+I am interested in Probability, Machine Learning, and Compression - [so just compression](https://juggernautjha.gitlab.io/c17e/posts/aitshill.html) ;). I also like writing search/scrape utilities. 
 My handle is juggernautjha, or some variation thereof, on most social media platforms because I am reasonably narcissistic. 
 I also blog! [Check this out!](https://juggernautjha.gitlab.io/c17e)
 
