@@ -1,9 +1,7 @@
 Hey!
-I am an undergrad at IIT Kanpur, studying Mathematics. In my free time, I watch movies.
+I was an undergrad at IIT Kanpur, where I studied Mathematics. I am currently a QR at a hedge fund. I like reading books, playing board games, and writing bad code. 
+My handle is juggernautjha, or some variation thereof, on most social media platforms because I am very full of myself. 
 
-I am interested in Probability, Machine Learning, and Compression - [so just compression](https://juggernautjha.gitlab.io/c17e/posts/aitshill.html) ;). I also like writing search/scrape utilities. 
-My handle is juggernautjha, or some variation thereof, on most social media platforms because I am reasonably narcissistic. 
-I also blog! [Check this out!](https://juggernautjha.gitlab.io/c17e)
 
 <!---
 juggernautjha/juggernautjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
